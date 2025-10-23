@@ -218,7 +218,6 @@ Astuce : si tu as activé un mot-clé (ex. ping → Pong) côté bot, envoie « 
 
 ## Captures d’écran
 
-> Place les fichiers dans `./assets/` selon les noms ci-dessous.
 
 <div style="display:flex; gap:10px; align-items:flex-start; margin:14px 0;">
   <picture>
