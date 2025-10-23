@@ -253,11 +253,3 @@ Ressources utiles :
 * Conception et pédagogie : Daniel / GomyCode
 * Stack technique : Node.js, TypeScript, Slack Bolt (Socket Mode)
 * Marque et logo : Slack
-
----# slack-bot-ts
-# slack-bot-ts
-# slack-bot-ts
-# slack-bot-ts
-# slack-bot-ts
-# slack-bot-ts
-# slack-bot-ts
