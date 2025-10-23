@@ -28,16 +28,6 @@
 
 </div>
 
-<style>
-@keyframes glow { 0%,100% {opacity:.25} 50% {opacity:1} }
-.badge { display:inline-block; padding:4px 8px; border-radius:8px; font-size:12px; border:1px solid rgba(0,0,0,.08); background:rgba(0,0,0,.03)}
-.card { border:1px solid rgba(0,0,0,.08); border-radius:14px; padding:16px; background:linear-gradient(180deg, rgba(255,255,255,.9), rgba(250,250,255,.9)) }
-.kbd { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; background:#111; color:#fff; border-radius:6px; padding:2px 6px; font-size:12px }
-.step { counter-increment: s; }
-.step::before { content: counter(s) "."; font-weight:700; margin-right:6px; color:#611f69 }
-</style>
-
-<!-- STYLE END -->
 
 ## Sommaire
 
